@@ -6,6 +6,12 @@ import TheWelcome from './components/TheWelcome.vue'
 <template>
 <body>
   <h1>Welcome to vueJS</h1>
+  <div class="grid">
+  <div></div>
+  <div></div>
+  <div></div>
+  <div></div>
+  </div>
 </body>
 </template>
 
